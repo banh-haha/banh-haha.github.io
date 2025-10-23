@@ -1,0 +1,37 @@
+{
+    "LEVEL_REWARDS": {
+        "10": "1430892596829622373",
+        "20": "1430892742719963298",
+        "30": "1430893003496751216",
+        "40": "1430893152541216819",
+        "50": "1430893290928083075"
+    },
+    "CAU_CHAO_HIEN_TAI": "  \ud83d\udcaf   WELCOME {mem} !    \u2728   ( d\u00e2n c\u1ee9 c\u1ee7a sever l\u00e0 {soluong} d\u00e2n )\r\n \r\n\ud83d\udc96   Ch\u00e0o m\u1eebng b\u1ea1n \u0111\u1ebfn v\u1edbi Ti\u1ec7m Tr\u00e0 Banhbaongon!    \ud83c\udf75\r\n\r\n\u0110\u00e2y l\u00e0 n\u01a1i \u0111\u1ec3 chill, t\u00e2m s\u1ef1 v\u00e0 k\u1ebft n\u1ed1i!   \ud83e\udd17  \r\n\r\n\u00ca  {id638732212296220693}  v\u00e0   {id1427169612436340806} ra ti\u1ebfp kh\u00e1ch n\u00e8 !  \r\n\r\nCh\u00fac b\u1ea1n c\u00f3 nh\u1eefng gi\u00e2y ph\u00fat vui v\u1ebb \u1edf {sever} nha !  ",
+    "URL_GIF_MINI": "https://cdn.discordapp.com/emojis/1166661907572713502.gif?v=1",
+    "URL_GIF_MAIN": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474103jJi/anh-dong-powerpoint-welcome_021853591.gif",
+    "ID_KENH_CHAO_MUNG": "1417506375369621591",
+    "AUTO_RESPONSES": [
+        {
+            "trigger": "hi",
+            "response": "Ch\u00e0o {mem}! Ch\u00fac {mem} m\u1ed9t ng\u00e0y vui v\u1ebb!"
+        },
+        {
+            "trigger": "hello",
+            "response": "Ch\u00e0o {mem}! Ch\u00fac {mem} m\u1ed9t ng\u00e0y vui v\u1ebb!"
+        },
+        {
+            "trigger": "hola",
+            "response": "Ch\u00e0o {mem}! Ch\u00fac {mem} m\u1ed9t ng\u00e0y vui v\u1ebb!"
+        },
+        {
+            "trigger": "ch\u00e0o",
+            "response": "Ch\u00e0o {mem}! Ch\u00fac {mem} m\u1ed9t ng\u00e0y vui v\u1ebb!"
+        },
+        {
+            "trigger": "\u00ea",
+            "response": "nh\u1eafn  nhi\u1ec1u  l\u00ean  \u0111i  mn \u01a1i"
+        }
+    ],
+    "EMBED_CHAO_MUNG_MAU": "#0099FF",
+    "DASHBOARD_BACKGROUND_URL": "room.gif"
+}
